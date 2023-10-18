@@ -1,0 +1,5 @@
+train: C:\trainer\yolov5\data\train\images
+val: C:\trainer\yolov5\data\valid\images
+
+nc: 1
+names: ['player']
